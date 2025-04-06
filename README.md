@@ -8,6 +8,8 @@ The Spin function handles the cube's animation, adjusting the rotation angle and
 
 In the main function, the program initializes GLUT, creates a window, and sets up the rendering and animation functions. The menu is also created, and the program enters the GLUT main loop for window management and event handling. The cube rotates and scales continuously, providing a visual demonstration of simple OpenGL rendering and animation techniques.
 
+When running the .exe, make sure the freeglut.dll is in the same folder.
+
 
 ![image](https://github.com/raccoote/Spinning-Cube/assets/74006924/0a322301-d19a-4504-b960-2f5be05b32e0)
 
